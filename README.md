@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @accelerative
-- 👀 I’m interested in learning Animation, Automation, coding in Python, and building websites.
+- 👀 I’m interested in learning Animation, Quantum Computing,Automation, coding in Python, and building websites. 
 - 🌱 I’m currently learning Wordpress website development.
 - 💞️ I’m looking to collaborate on BeatTDS and other upcoming projects.
 - 📫 How to reach me accelatlvl5@gmail.com
